@@ -1,0 +1,13 @@
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.csprojAssemblyReference.cache
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.AssemblyInfoInputs.cache
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.AssemblyInfo.cs
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.csproj.CoreCompileInputs.cache
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.exe
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.deps.json
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.runtimeconfig.json
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.runtimeconfig.dev.json
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.dll
+C:\Users\G\source\repos\paperscissors\paperscissors\bin\Debug\netcoreapp3.1\paperscissors.pdb
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.dll
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.pdb
+C:\Users\G\source\repos\paperscissors\paperscissors\obj\Debug\netcoreapp3.1\paperscissors.genruntimeconfig.cache
